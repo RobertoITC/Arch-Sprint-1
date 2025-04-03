@@ -71,6 +71,8 @@ Este proyecto implementa un sistema de gestión de tareas inspirado en Jira, uti
 	3.	Realiza los cambios y haz commits descriptivos.
 	4.	Envía tu rama a tu repositorio (git push origin feature/nueva-funcionalidad).
 	5.	Crea un Pull Request detallando los cambios.
+## UML
+![Editor _ Mermaid Chart-2025-04-03-054620](https://github.com/user-attachments/assets/bd2571a6-813d-4652-be73-41f7edd8fcfd)
 
 ### Licencia
 
