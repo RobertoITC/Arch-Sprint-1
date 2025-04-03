@@ -1,5 +1,5 @@
 
-#Sistema de Gestión de Tareas Estilo Jira
+# Sistema de Gestión de Tareas Estilo Jira
 
 Este proyecto implementa un sistema de gestión de tareas inspirado en Jira, utilizando TypeScript y aplicando varios patrones de diseño para lograr un sistema modular y escalable.
 
